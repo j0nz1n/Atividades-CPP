@@ -1,2 +1,3 @@
 # Atividades CPP
- Atividades de C++
+### Atividades de C++ realizadas na faculdade!
+Algumas realizadas na matéria introdutória, outras na matéria de estrutura de dados. Gostei da linguagem, gosto do fato dela ser da Microsoft e quem sabe um dia eu aprenda C#...
